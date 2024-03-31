@@ -1,0 +1,15 @@
+.box-Container{
+display: grid;
+grid-template-columns: repeat(3,1fr);
+gap: 10px;
+}
+.visited{
+    background-color: green;
+}
+
+.nonVisit{
+    background-color: aqua;
+}
+.flg{
+    width: 100px;
+}
